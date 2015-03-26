@@ -1,0 +1,21 @@
+[submodule "Appearance"]
+	path = Appearance
+	url = https://github.com/rox-desktop/rox-appearance.git
+[submodule "Font"]
+	path = Font
+	url = https://github.com/rox-desktop/rox-font.git
+[submodule "Gamma"]
+	path = Gamma
+	url = https://github.com/rox-desktop/rox-gamma.git
+[submodule "Keyboard"]
+	path = Keyboard
+	url = https://github.com/rox-desktop/rox-keyboard.git
+[submodule "Mouse"]
+	path = Mouse
+	url = https://github.com/rox-desktop/rox-mouse.git
+[submodule "Resolution"]
+	path = Resolution
+	url = https://github.com/rox-desktop/rox-resolution.git
+[submodule "Screensaver"]
+	path = Screensaver
+	url = https://github.com/rox-desktop/rox-screensaver.git
